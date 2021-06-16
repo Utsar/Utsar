@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Full stack development at StriveSchool, I've also studied Python on my own
 - 💞️ I’m looking to collaborate on potential junior full stack developer work opportunities
 - 📫 How to reach me: utsaru@gmail.com
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utsar)](https://github.com/Utsar/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utsar&langs_count=8)](https://github.com/Utsar/github-readme-stats)
 <!---
 Utsar/Utsar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
