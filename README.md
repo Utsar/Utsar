@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Utsar
 - 👀 I’m enjoy programming and web development
-- 🌱 I’m currently learning Full stack development at StriveSchool, I've also studied Python on my own
+- 🌱 Graduate of EPICODE fullstack 8 month full time certificate, I've also studied Python on my own
 - 💞️ I’m looking to collaborate on potential full-stack developer / front-end work opportunities, please visit https://www.kristianutsar.com
 - 📫 How to reach me: utsaru@gmail.com
 
